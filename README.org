@@ -1,0 +1,10 @@
+* trivial-ldap
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rwiker/trivial-ldap.git   |
+| commit  | 3b8f1ff  |
+| systems | trivial-ldap |
+|---------+-------------------------------------------|
+
